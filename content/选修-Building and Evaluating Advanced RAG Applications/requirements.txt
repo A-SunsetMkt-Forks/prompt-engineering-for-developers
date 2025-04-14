@@ -165,7 +165,7 @@ torchvision==0.16.1
 tornado==6.4
 tqdm==4.66.2
 traitlets==5.14.1
-transformers==4.33.2
+transformers==4.38.0
 trulens-eval==0.18.1
 typing-inspect==0.8.0
 typing_extensions==4.5.0
