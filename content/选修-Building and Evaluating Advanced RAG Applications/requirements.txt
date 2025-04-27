@@ -163,7 +163,7 @@ toolz==0.12.1
 torch==2.1.1
 torchvision==0.16.1
 tornado==6.4
-tqdm==4.66.2
+tqdm==4.66.3
 traitlets==5.14.1
 transformers==4.33.2
 trulens-eval==0.18.1
