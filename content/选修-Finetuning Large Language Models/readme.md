@@ -2,6 +2,8 @@
 
 注：吴恩达《Finetuning Large Language Model》课程中文版
 
+本教程目前（截止2025-06-11）无法通过网页注册lamini账号，无法获取api key，因此本教程中的代码无法运行。
+
 **目录：**
 
 1. 简介 Introduction @韩颐堃
