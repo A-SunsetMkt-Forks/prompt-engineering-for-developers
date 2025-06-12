@@ -26,6 +26,8 @@ dependencies = [
     "notebook>=7.4.3",
     "numexpr>=2.10.2",
     "openai>=1.82.1",
+    "openapi-pydantic>=0.5.1",
+    "panel>=1.7.1",
     "pip>=25.1.1",
     "pyarrow>=20.0.0",
     "pypdf>=5.6.0",
@@ -37,6 +39,7 @@ dependencies = [
     "wandb>=0.20.1",
     "wheel>=0.45.1",
     "widgetsnbextension>=4.0.14",
+    "wikipedia>=1.4.0",
 ]
 
 [project.optional-dependencies]
